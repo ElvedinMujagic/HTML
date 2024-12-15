@@ -1,0 +1,21 @@
+.margin_all {
+	margin: 3cm;3cm;3cm;3cm;
+	}
+
+.topmargin {
+	margin-top: 5cm
+	}
+
+.top_procenat {margin-top: 25%}
+
+.leftmargin {margin-left: 5cm}
+
+.left_procenat {margin-left: 25%}
+
+.bottommargin {margin-bottom: 5cm}
+
+.bottom_procenat {margin-bottom: 25%}
+
+.rightmargin {margin-right: 5cm}
+
+.right_procenat {margin-right: 25%}

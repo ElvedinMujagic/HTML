@@ -1,0 +1,35 @@
+/*formatiranje citavog XHTML dokumenta */
+
+body {font-family: "Arial", "Helvetica", sans-serif;
+      font-size: 14pt;
+      text-align: justify;
+      background: #f0f8ff}
+
+p {font-family: "Arial", "Helvetica", sans-serif;
+   font-size: 14pt;
+	 margin: 5pt;
+	 }
+	 
+h1 {font-family: "Arial", "Helvetica", sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+		text-align: center;}
+		
+/* formatiranje boje i pozadine */
+h4.white { background-color: white; } 
+p#boja  { background-color: #ff8c00; 
+				  color:#FFFFFF;} 
+ul { background-color: rgb( 149, 206, 145);
+ } 
+
+
+/* definisanje slike kao pozadine  */
+
+p.slika { background-image: url(slike/pozadina.jpg); }
+div.slika { background-image: url(slike/pozadina.jpg); }
+h4.slika { background-image: url(slike/pozadina.jpg); 
+				   font-weight: bold;
+					 text-align: center;}
+
+					 
+
